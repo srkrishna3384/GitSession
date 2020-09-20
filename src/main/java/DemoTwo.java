@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	
 	System.out.println("SampleOne");
 	System.out.println("SampleTwo");
+	System.out.println("SampleThree");
 }
 }
